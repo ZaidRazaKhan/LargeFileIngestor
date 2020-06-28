@@ -30,8 +30,8 @@ After importing the data, we would like to run an aggregate query to give us no.
 ### Installation
 * Clone this repository
 ```bash
-git clone https://github.com/ZaidRazaKhan/LargeFileProcessorIngestor.git
-cd LargeFileProcessorIngestor/LargeFileProcessor
+git clone https://github.com/ZaidRazaKhan/LargeFileIngestor.git
+cd LargeFileIngestor/LargeFileProcessor
 ```
 * Install Docker
 ```bash
